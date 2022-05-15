@@ -35,6 +35,7 @@ module.exports = {
               process.env.PRIVATE_KEY_4,
             ]
           : [],
+      gas: 100000000000,
     },
   },
   gasReporter: {
